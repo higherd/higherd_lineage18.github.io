@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://konstakang.com"
+url: "https://higherd.tistory.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: KonstaKANG.com
+title: higherd.tistory.com
 
 # Short description of your site
 description: ""
@@ -61,21 +61,21 @@ avatar: "/img/konsta.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: © KonstaKANG
-  email: "konstakang@gmail.com"
-  facebook: yourname  # eg. daattali
-  github: KonstaT    # eg. daattali
-  twitter: KonstaKANG   # eg. daattali
+  name: © higherd
+  email: "higherd@gmail.com"
+  facebook: higherd2018  # eg. daattali
+  github: higherd    # eg. daattali
+  twitter: higherd   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
+  instagram: higherd # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  telephone: +821033011204   # eg. +14159998888
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
@@ -110,17 +110,17 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "KonstaKANG.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "higherd.tistory.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "konstakang"
+disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-89785842-1"
+google_analytics: ""
 
 # Fill in your Google AdSense ID
-google_adsense: "ca-pub-2525301408566801"
+google_adsense: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -145,7 +145,7 @@ collections:
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Korea/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
